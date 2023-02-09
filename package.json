@@ -1,0 +1,20 @@
+{
+  "name": "pnpm-express-typescript-prettier-starter",
+  "version": "1.0.0",
+  "description": "Starter project for a PNPM + Express + Typescript + Prettier project",
+  "main": "src/index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "Camille Briand <camille.briand+npm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.13.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}

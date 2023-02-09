@@ -1,0 +1,20 @@
+# IDEs
+.vscode/
+.idea/
+.fleet/
+*.iml
+
+# Node
+node_modules/
+
+# Typescript
+dist/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.local
+.env.dev
+.env.production
